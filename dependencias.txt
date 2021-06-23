@@ -1,0 +1,32 @@
+devDependencias
+REACT
+
+@babel/runtime
+webpack webpack-cli webpack-dev-server css-loader style-loader file-loader
+url-loader
+babel-loader @babel/core @babel/preset-env @babel/preset-react
+@babel/plugin-syntax-dynamic-import @babel/plugin-transform-runtime
+
+html-webpack-plugin
+
+@babel/plugin-proposal-class-properties
+
+mini-css-extract-plugin
+
+VUE
+vue-loader
+vue-template-compiler
+@vue/babel-preset-app
+
+VERSIONANDO,LIMPIANDO Y COMPRIMIENDO
+add-asset-html-webpack-plugin
+clean-webpack-plugin
+optimize-css-assets-webpack-plugin terser-webpack-plugin
+
+
+postcss-import
+postcss-loader
+tailwindcss
+autoprefixer
+
+
